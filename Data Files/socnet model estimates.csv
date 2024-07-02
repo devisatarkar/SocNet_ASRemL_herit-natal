@@ -1,0 +1,49 @@
+﻿Year,Trait,EstimateType,Estimate,SE
+2011,Mean Group Size,Repeatability,0.379,0.013
+2011,Mean Group Size,Heritability,4.42E-08,9.65E-10
+2011,Degree,Repeatability,0.379,0.013
+2011,Degree,Heritability,0.000000053,1.16E-09
+2011,Weighted degree,Repeatability,0.379,0.013
+2011,Weighted degree,Heritability,0.000000051,1.1E-09
+2011,Centrality,Repeatability,0.131,0.009
+2011,Centrality,Heritability,0.028,0.012
+2011,Weighted centrality,Repeatability,0.09,0.008
+2011,Weighted centrality,Heritability,0.02,0.01
+2011,Betweenness,Repeatability,0.057,0.007
+2011,Betweenness,Heritability,0.012,0.009
+2012,Mean Group Size,Repeatability,0.591,0.015
+2012,Mean Group Size,Heritability,0.062,0.051
+2012,Degree,Repeatability,0.577,0.016
+2012,Degree,Heritability,0.049,0.049
+2012,Weighted degree,Repeatability,0.557,0.013
+2012,Weighted degree,Heritability,0.043,0.049
+2012,Centrality,Repeatability,0.374,0.017
+2012,Centrality,Heritability,0.103,0.035
+2012,Weighted centrality,Repeatability,0.265,0.015
+2012,Weighted centrality,Heritability,0.048,0.029
+2012,Betweenness,Repeatability,0.042,0.008
+2012,Betweenness,Heritability,0.000000016,2.9E-10
+2013,Mean Group Size,Repeatability,0.549,0.015
+2013,Mean Group Size,Heritability,0.063,0.041
+2013,Degree,Repeatability,0.496,0.016
+2013,Degree,Heritability,0.034,0.036
+2013,Weighted degree,Repeatability,0.542,0.016
+2013,Weighted degree,Heritability,0.106,0.042
+2013,Centrality,Repeatability,0.141,0.011
+2013,Centrality,Heritability,0.036,0.018
+2013,Weighted centrality,Repeatability,0.054,0.008
+2013,Weighted centrality,Heritability,0.043,0.012
+2013,Betweenness,Repeatability,0.077,0.009
+2013,Betweenness,Heritability,0.007,0.012
+All 3 years,Mean Group Size,Repeatability,0.425,0.01
+All 3 years,Mean Group Size,Heritability,0.0109,0.017
+All 3 years,Degree,Repeatability,0.413,0.01
+All 3 years,Degree,Heritability,5.89E-08,0.000000001
+All 3 years,Weighted degree,Repeatability,0.417,0.01
+All 3 years,Weighted degree,Heritability,0.0108,0.016
+All 3 years,Centrality,Repeatability,0.172,0.007
+All 3 years,Centrality,Heritability,0.022,0.009
+All 3 years,Weighted centrality,Repeatability,0.099,0.005
+All 3 years,Weighted centrality,Heritability,0.01,0.006
+All 3 years,Betweenness,Repeatability,0.05,0.004
+All 3 years,Betweenness,Heritability,0.008,0.004

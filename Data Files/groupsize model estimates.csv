@@ -1,0 +1,21 @@
+﻿Year,Model,EstimateType,Estimate,SE
+2011,Model 1 ,Repeatability (ID),0.192,0.007
+2011,Model 2,Repeatability (ID),0.192,0.007
+2011,Model 2,Heritability,2.52E-08,2.26E-10
+2011,Model 4,Repeatability (ID),0.048,0.003
+2011,Model 4,Repeatability (logger),0.318,0.038
+2012,Model 1 ,Repeatability (ID),0.303,0.011
+2012,Model 2,Repeatability (ID),0.306,0.012
+2012,Model 2,Heritability,0.019,0.024
+2012,Model 4,Repeatability (ID),0.045,0.003
+2012,Model 4,Repeatability (logger),0.332,0.039
+2013,Model 1 ,Repeatability (ID),0.205,0.008
+2013,Model 2,Repeatability (ID),0.209,0.009
+2013,Model 2,Heritability,0.026,0.015
+2013,Model 4,Repeatability (ID),0.03,0.002
+2013,Model 4,Repeatability (logger),0.294,0.037
+Between-year,Model 1 ,Repeatability (ID),0.209,0.005
+Between-year,Model 2,Repeatability (ID),0.208,0.005
+Between-year,Model 2,Heritability,0.003,0.007
+Between-year,Model 4,Repeatability (ID),0.082,0.004
+Between-year,Model 4,Repeatability (logger),0.261,0.034
